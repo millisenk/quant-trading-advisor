@@ -1,0 +1,13 @@
+{
+  "name": "cee-trading",
+  "owner": {
+    "name": "cee"
+  },
+  "plugins": [
+    {
+      "name": "quant-trading-advisor",
+      "source": "./",
+      "description": "Aggressive, target-first quant trading advisor with built-in capital-growth tracker."
+    }
+  ]
+}
