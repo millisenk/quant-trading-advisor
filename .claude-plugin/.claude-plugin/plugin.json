@@ -1,0 +1,8 @@
+{
+  "name": "quant-trading-advisor",
+  "version": "1.0.0",
+  "description": "Aggressive, target-first quantitative trading advisor and portfolio manager. Pulls live market data across PSE, US, crypto and FX; sizes positions to a strict 1-2% risk budget; logs your end-of-day placements into a built-in capital-growth tracker with automatic 50% profit reinvestment toward a monthly net-profit target.",
+  "author": { "name": "cee" },
+  "keywords": ["trading","quant","portfolio","risk-management","position-sizing","PSE","US-equities","crypto","forex","tracker"],
+  "skills": ["./skills/trading-advisor"]
+}
